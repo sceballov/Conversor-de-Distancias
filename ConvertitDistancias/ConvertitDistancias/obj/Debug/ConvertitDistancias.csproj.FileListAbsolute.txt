@@ -1,0 +1,7 @@
+E:\UAPA\ITLA C#\ITLA C# Intermedio\ConvertitDistancias\ConvertitDistancias\bin\Debug\ConvertitDistancias.exe.config
+E:\UAPA\ITLA C#\ITLA C# Intermedio\ConvertitDistancias\ConvertitDistancias\bin\Debug\ConvertitDistancias.exe
+E:\UAPA\ITLA C#\ITLA C# Intermedio\ConvertitDistancias\ConvertitDistancias\bin\Debug\ConvertitDistancias.pdb
+E:\UAPA\ITLA C#\ITLA C# Intermedio\ConvertitDistancias\ConvertitDistancias\obj\Debug\ConvertitDistancias.csproj.AssemblyReference.cache
+E:\UAPA\ITLA C#\ITLA C# Intermedio\ConvertitDistancias\ConvertitDistancias\obj\Debug\ConvertitDistancias.csproj.CoreCompileInputs.cache
+E:\UAPA\ITLA C#\ITLA C# Intermedio\ConvertitDistancias\ConvertitDistancias\obj\Debug\ConvertitDistancias.exe
+E:\UAPA\ITLA C#\ITLA C# Intermedio\ConvertitDistancias\ConvertitDistancias\obj\Debug\ConvertitDistancias.pdb
